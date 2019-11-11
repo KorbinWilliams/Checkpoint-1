@@ -1,0 +1,55 @@
+.bg1 {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100%;
+}
+
+.bees {
+  background-image: url(https://cdn.abcotvs.com/dip/images/3477554_bees.jpg?w=1280&r=16%3A9);
+}
+
+.pad {
+  padding-top: 20vh;
+  padding-bottom: 10vh;
+}
+
+.pad2 {
+  padding: 0 100px;
+}
+
+.pad2:hover {
+  cursor: pointer;
+}
+
+.para1 {
+  align-self: center;
+  color: yellow;
+  text-shadow: black 2px 2px;
+}
+
+.cage {
+  background-image: url(https://image.freepik.com/free-photo/old-net-cage-black-background_92256-62.jpg);
+}
+
+
+.roundcard {
+  display: flex;
+  justify-content: center;
+
+}
+
+.iconcard {
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  width: fit-content;
+  height: auto;
+  border-radius: 50%;
+}
+
+.geo {
+  background-image: url(https://miro.medium.com/max/2016/1*S-eCEF0XS4J6TZW9NqJyIQ.jpeg);
+}
