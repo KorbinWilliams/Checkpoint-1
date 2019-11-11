@@ -9,6 +9,10 @@
   background-image: url(https://cdn.abcotvs.com/dip/images/3477554_bees.jpg?w=1280&r=16%3A9);
 }
 
+.iconblack {
+  color: black;
+}
+
 .pad {
   padding-top: 20vh;
   padding-bottom: 10vh;
@@ -34,9 +38,16 @@
 
 
 .roundcard {
-  display: flex;
-  justify-content: center;
+  max-width: 30vh;
+}
 
+.centcont {
+  text-align: center;
+}
+
+.cardpos {
+  position: absolute;
+  margin-bottom: -5rem;
 }
 
 .iconcard {
@@ -45,8 +56,6 @@
 }
 
 img {
-  width: fit-content;
-  height: auto;
   border-radius: 50%;
 }
 
